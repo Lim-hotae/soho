@@ -1,5 +1,9 @@
 source 'https://rubygems.org'
 
+gem 'puma', '~> 3.0'
+gem 'sqlite3'
+gem 'pg'
+
 # 차트용 gemfile (진우)
 gem 'chartkick'
 gem 'highcharts'
